@@ -26,3 +26,7 @@ git log source/master ^master
 Вливаем их:
 git merge origin/master
 git merge source/master
+
+
+
+В разные файлы вносим изменения на удаленных репозиториях.
